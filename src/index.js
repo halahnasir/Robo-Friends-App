@@ -2,9 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App'
-
-
+import 'tachyons'
 import reportWebVitals from './reportWebVitals';
+
+document.title = 'Robots'
 
 ReactDOM.render(
   <React.StrictMode>
