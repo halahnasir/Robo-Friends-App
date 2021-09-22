@@ -1,9 +1,8 @@
 import React from 'react'
 
-
 const Card = () => {
     return(
-        <div>
+        <div className = 'card'>
             <img src = 'https://robohash.org/ajkduiwnjakdh?200x200' alt = 'robo'/>
             <div>
                 <h2>Jane Doe</h2>
