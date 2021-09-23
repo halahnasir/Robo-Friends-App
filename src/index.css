@@ -17,8 +17,10 @@ body {
     rgba(3, 3, 67, 0.9),
     rgba(104, 104, 104, 0.7)
   );
+  overflow: hidden;
 }
 
 h1 {
   font-weight: 600;
+  color: wheat;
 }
