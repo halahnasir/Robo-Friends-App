@@ -2,3 +2,8 @@ input {
   outline: none;
   border: none;
 }
+
+input::placeholder {
+  color: black;
+  text-align: center;
+}
